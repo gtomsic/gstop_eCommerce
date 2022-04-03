@@ -1,4 +1,4 @@
-# Getting GSTOP-SHOPPING
+# GSTOP-SHOPPING
 
 # Instructions before running the programming
 
