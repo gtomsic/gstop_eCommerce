@@ -1,5 +1,7 @@
 # GSTOP-SHOPPING
 
+Open [https://gstop-client.herokuapp.com](https://gstop-client.herokuapp.com) to view it in your browser.
+
 # Instructions before running the programming
 
 ## Inside server folder
