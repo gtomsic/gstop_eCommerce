@@ -11,6 +11,8 @@
 Create a folder => config
 Create a json inside config called config.json
 
+```diff
+
 {
 "development": {
 "username": "db-username",
@@ -20,6 +22,8 @@ Create a json inside config called config.json
 "dialect": "postgres"
 }
 }
+
+```
 
 Create a .env file outside server folder inline with client and server where package.json is
 
@@ -46,12 +50,6 @@ In the project directory, you can run:
 On the project folder run (npm install)
 Same inside client folder run (npm install)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm run data:import`
 
 This is require import the data first before running anything else
@@ -59,6 +57,12 @@ This is require import the data first before running anything else
 ### `npm run dev`
 
 This is going to run both server first and then the client where our front end is located
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ### `npm start`
 
